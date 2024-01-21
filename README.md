@@ -1,1 +1,0 @@
-# codsoft-task2_movierating
